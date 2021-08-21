@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hardesh.
 - 👀 I’m interested in SharePoint Development, Automation, Data Analysis & Algorithm.
-- 🌱 I’m currently learning technologies associated with SharePoint development.
+- 🌱 I’m currently learning technologies associated with Front End Development.
 - 💞️ I’m collaborating on Microsoft Power Platform Community.
 - 📫 My twitter handler - @HardeshMishra
 
